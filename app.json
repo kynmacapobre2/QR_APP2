@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "QR-ATT",
-    "slug": "QR-ATT",
+    "name": "Macapobre QR Attendance",
+    "slug": "macapobre-qr-attendance",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.nilfamicacaparoso.QRATT"
+      "package": "com.kynmacapobre.macapobreattendance"
     },
     "web": {
       "output": "static",
@@ -47,9 +47,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "749f5d9a-1375-4f7a-af61-2c437b683858"
+        "projectId": "89fd2d28-d35a-4206-97c5-07aad28981ed"
       }
     },
-    "owner": "nilfamicacaparoso"
+    "owner": "kynmacapobre"
   }
 }
